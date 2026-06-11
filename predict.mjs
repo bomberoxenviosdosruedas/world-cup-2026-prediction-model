@@ -27,4 +27,4 @@ console.log(`  ${a.padEnd(16)} win  ${(p.winA * 100).toFixed(1).padStart(5)}%  $
 console.log(`  ${"draw".padEnd(16)}      ${(p.draw * 100).toFixed(1).padStart(5)}%  ${bar(p.draw)}`);
 console.log(`  ${b.padEnd(16)} win  ${(p.winB * 100).toFixed(1).padStart(5)}%  ${bar(p.winB)}`);
 console.log(`\n  expected goals:  ${p.expectedGoalsA.toFixed(2)} – ${p.expectedGoalsB.toFixed(2)}\n`);
-console.log("  Full 48-team tournament title odds (10,000 sims): https://cup26matches.com");
+console.log("  Full 48-team tournament title odds (50,000 sims, conditioned on real results): https://cup26matches.com");

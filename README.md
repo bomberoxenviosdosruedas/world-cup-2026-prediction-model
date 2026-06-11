@@ -4,34 +4,62 @@ An open-source statistical model that forecasts **2026 FIFA World Cup** matches 
 **Elo ratings → Dixon-Coles bivariate Poisson → Monte Carlo simulation**. No machine-learning
 black box, no scraped bookmaker odds: just transparent, reproducible football maths.
 
-**▶ Live predictions (full 48-team, 10,000-simulation model):** **https://cup26matches.com**
+**▶ Live predictions (full 48-team, 50,000-simulation model):** **https://cup26matches.com**
 · [How it works / methodology](https://cup26matches.com/en/methodology/)
+· [Live insight feed](https://cup26matches.com/en/live/)
 · [Interactive bracket simulator](https://cup26matches.com/en/simulator/)
 
+> 🔴 **The tournament is LIVE (Jun 11 – Jul 19).** The production model now **conditions on real
+> results**: finished matches are locked, eliminated teams collapse to 0%, the actual bracket
+> (incl. the new best-third qualification, solved with bipartite matching) is used, and only the
+> remaining matches are simulated — re-run automatically within minutes of every full-time whistle.
+>
 > This repo open-sources the **core match model + our honest backtest** so you can run, inspect
-> and reproduce the numbers. The live site runs the full tournament simulation (groups → the new
-> Round of 32 → final) and updates daily as real results come in.
+> and reproduce the numbers.
 
 ---
 
 ## Why it's worth a look
 
-It's tested the honest way — **walk-forward, out-of-sample** on **920 real internationals**
-(Oct 2023 – May 2026). Every match is predicted using only data available *before* kickoff, then
-scored against the actual result. Reproduce it yourself in one command:
+It's tested the honest way — **walk-forward, out-of-sample** on **913 real internationals**
+(Oct 2023 – Jun 2026). Every match is predicted using only data available *before* kickoff, then
+scored against the actual result — with **proper scoring rules** (RPS, log-loss, Brier), not just
+accuracy, because accuracy alone rewards lucky guessing. Reproduce it yourself in one command:
 
 ```bash
 node backtest.mjs
 ```
 
-| Metric (770 evaluated, 150 burn-in) | Model | Baseline |
+| Metric (763 evaluated, 150 burn-in) | Model | Baseline |
 |---|---|---|
-| Correct result (win/draw/loss) | **~61%** | always-home 49% · coin-flip 33% |
-| When a clear favourite (p ≥ 50%) | **~67%** | — |
-| Brier score (lower = better) | **~0.54** | coin-flip 0.67 |
+| **Ranked Probability Score** (the football standard, ↓) | **0.175** | coin-flip 0.241 |
+| Log-loss (↓) | **0.89** | coin-flip 1.10 |
+| Brier score (↓) | **0.52** | coin-flip 0.67 |
+| **Expected Calibration Error** (↓) | **2.3%** | < 5% = well-calibrated |
+| Correct result (win/draw/loss) | **62%** | always-home 49% · coin-flip 33% |
+| When a clear favourite (p ≥ 50%) | **69%** | — |
 
-> _Updated June 2026: widened the goal-model variance parameter (the Elo→expected-goals denominator, 350→400) for slightly better calibration. Walk-forward accuracy is unchanged at **61%**; the Brier score improves marginally. The live 48-team title odds at [cup26matches.com](https://cup26matches.com) apply additional per-team strength priors on top of this core model._
+### Is it calibrated? (the chart that matters)
 
+A forecaster is honest when the things it calls "70%" happen about 70% of the time. Pooling every
+probability the model issued across the out-of-sample matches:
+
+| Model said | Actually happened | n |
+|---|---|---|
+| 5% | 7% | 225 |
+| 15% | 13% | 374 |
+| 26% | 24% | 804 |
+| 35% | 32% | 205 |
+| 45% | 54% | 200 |
+| 55% | 56% | 149 |
+| 65% | 67% | 136 |
+| 75% | 76% | 95 |
+| 85% | 85% | 100 |
+
+> _**Changelog** — Jun 11, 2026: Monte Carlo raised to **50,000 trials** (5× lower tail noise);
+> in-tournament conditioning is live; backtest extended with RPS + a reliability curve + ECE;
+> data refreshed through Jun 2026. · Jun 7: goal-model variance denominator 350→400; per-team
+> strength priors applied on the live site on top of this core model._
 
 No model is a crystal ball — football is high-variance and draws are genuinely hard. These are
 well-calibrated estimates, and we make **no claim to beat the betting market**.
@@ -70,8 +98,10 @@ $ node predict.mjs spain germany
 2. **Each match (Dixon-Coles Poisson).** Ratings → expected goals → a Dixon-Coles bivariate
    Poisson gives win/draw/loss probabilities. The Dixon-Coles correction fixes plain Poisson's
    well-known under-count of low-scoring draws (0-0, 1-1). See [`elo.mjs`](./elo.mjs).
-3. **The tournament (Monte Carlo).** The live site plays all 104 matches 10,000 times through the
-   real bracket to get championship & advancement odds. Full write-up:
+3. **The tournament (Monte Carlo).** The live site plays all 104 matches **50,000 times** through
+   the real bracket to get championship & advancement odds — and, now the tournament is underway,
+   **locks every finished result** (real standings, real qualifiers, real bracket slots) and
+   simulates only what's left. Full write-up:
    [cup26matches.com/methodology](https://cup26matches.com/en/methodology/).
 
 ## Files
@@ -80,9 +110,9 @@ $ node predict.mjs spain germany
 |---|---|
 | `elo.mjs` | The match model — Elo, Dixon-Coles τ, Poisson, `matchProb`, `sampleMatch` |
 | `calibrate.mjs` | Build calibrated ratings from `data/results.json` |
-| `backtest.mjs` | Walk-forward out-of-sample evaluation (accuracy, Brier, log-loss) |
+| `backtest.mjs` | Walk-forward out-of-sample evaluation (RPS, log-loss, Brier, ECE + reliability curve) |
 | `predict.mjs` | CLI head-to-head predictor |
-| `data/results.json` | 920 real international results (2023–2026) |
+| `data/results.json` | 913 real international results (Oct 2023 – Jun 2026) |
 | `data/elo-calibrated.json` | Calibrated Elo for the 48 finalists |
 | `data/model-backtest.json` | Saved backtest metrics |
 
