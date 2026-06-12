@@ -5,37 +5,37 @@
 
  🗓️  --- JORNADA Matchday 1 ---
   📍 MEXICO vs SOUTH-AFRICA
-     📊 Tendencia -> Local: 64.7% | Empate: 23.2% | Visita: 12.1%
-     🎯 Top Marcadores: 🔥 [2 - 0] (12.9%)   [1 - 0] (11.9%)   [1 - 1] (11.0%)
+     📊 Tendencia -> Local: 70.8% | Empate: 20.7% | Visita: 8.5%
+     🎯 Top Marcadores: 🔥 [2 - 0] (14.7%)   [1 - 0] (12.9%)   [3 - 0] (10.2%)
      ⚽ Resultado Simulado: 2 - 0
   ----------------------------------------------------
   📍 SOUTH-KOREA vs CZECH-REPUBLIC
-     📊 Tendencia -> Local: 48.5% | Empate: 27.8% | Visita: 23.7%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.3%)   [2 - 1] (9.5%)   [1 - 0] (9.4%)
+     📊 Tendencia -> Local: 50.8% | Empate: 27.3% | Visita: 21.8%
+     🎯 Top Marcadores: 🔥 [1 - 1] (13.1%)   [1 - 0] (9.7%)   [2 - 1] (9.7%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 2 ---
   📍 CZECH-REPUBLIC vs SOUTH-AFRICA
-     📊 Tendencia -> Local: 42.6% | Empate: 28.6% | Visita: 28.8%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.7%)   [2 - 1] (9.1%)   [1 - 0] (8.5%)
+     📊 Tendencia -> Local: 43.9% | Empate: 28.5% | Visita: 27.6%
+     🎯 Top Marcadores: 🔥 [1 - 1] (13.6%)   [2 - 1] (9.2%)   [1 - 0] (8.7%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
   📍 MEXICO vs SOUTH-KOREA
-     📊 Tendencia -> Local: 44.3% | Empate: 28.4% | Visita: 27.3%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.6%)   [2 - 1] (9.2%)   [1 - 0] (8.8%)
+     📊 Tendencia -> Local: 47.1% | Empate: 28.0% | Visita: 24.9%
+     🎯 Top Marcadores: 🔥 [1 - 1] (13.4%)   [2 - 1] (9.4%)   [1 - 0] (9.2%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 3 ---
   📍 CZECH-REPUBLIC vs MEXICO
-     📊 Tendencia -> Local: 16.8% | Empate: 25.6% | Visita: 57.6%
-     🎯 Top Marcadores: 🔥 [1 - 1] (12.3%)   [0 - 2] (11.0%)   [0 - 1] (10.7%)
-     ⚽ Resultado Simulado: 1 - 1
+     📊 Tendencia -> Local: 13.4% | Empate: 24.0% | Visita: 62.6%
+     🎯 Top Marcadores: 🔥 [0 - 2] (12.3%)   [0 - 1] (11.5%)   [1 - 1] (11.4%)
+     ⚽ Resultado Simulado: 0 - 2
   ----------------------------------------------------
   📍 SOUTH-AFRICA vs SOUTH-KOREA
-     📊 Tendencia -> Local: 18.0% | Empate: 26.1% | Visita: 55.8%
-     🎯 Top Marcadores: 🔥 [1 - 1] (12.5%)   [0 - 2] (10.6%)   [0 - 1] (10.5%)
+     📊 Tendencia -> Local: 15.5% | Empate: 25.0% | Visita: 59.5%
+     🎯 Top Marcadores: 🔥 [1 - 1] (12.0%)   [0 - 2] (11.5%)   [0 - 1] (11.0%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
@@ -43,10 +43,10 @@
 ------------------------------------------------------
  POS  EQUIPO              PTS   PJ   GF   GC   DG
 ------------------------------------------------------
-  1.  MEXICO               5    3    4    2   +2
+  1.  MEXICO               7    3    5    1   +4
   2.  SOUTH-KOREA          3    3    3    3   +0
-  3.  CZECH-REPUBLIC       3    3    3    3   +0
-  4.  SOUTH-AFRICA         2    3    2    4   -2
+  3.  SOUTH-AFRICA         2    3    2    4   -2
+  4.  CZECH-REPUBLIC       2    3    2    4   -2
 ======================================================
 
 
@@ -56,36 +56,36 @@
 
  🗓️  --- JORNADA Matchday 1 ---
   📍 CANADA vs BOSNIA-AND-HERZEGOVINA
-     📊 Tendencia -> Local: 52.1% | Empate: 27.1% | Visita: 20.9%
-     🎯 Top Marcadores: 🔥 [1 - 1] (12.9%)   [1 - 0] (9.9%)   [2 - 1] (9.7%)
+     📊 Tendencia -> Local: 55.1% | Empate: 26.3% | Visita: 18.6%
+     🎯 Top Marcadores: 🔥 [1 - 1] (12.6%)   [2 - 0] (10.4%)   [1 - 0] (10.4%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
   📍 QATAR vs SWITZERLAND
-     📊 Tendencia -> Local: 13.8% | Empate: 24.2% | Visita: 62.0%
-     🎯 Top Marcadores: 🔥 [0 - 2] (12.1%)   [1 - 1] (11.5%)   [0 - 1] (11.4%)
+     📊 Tendencia -> Local: 11.0% | Empate: 22.5% | Visita: 66.5%
+     🎯 Top Marcadores: 🔥 [0 - 2] (13.4%)   [0 - 1] (12.2%)   [1 - 1] (10.7%)
      ⚽ Resultado Simulado: 0 - 2
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 2 ---
   📍 SWITZERLAND vs BOSNIA-AND-HERZEGOVINA
-     📊 Tendencia -> Local: 60.8% | Empate: 24.6% | Visita: 14.6%
-     🎯 Top Marcadores: 🔥 [2 - 0] (11.8%)   [1 - 1] (11.7%)   [1 - 0] (11.3%)
+     📊 Tendencia -> Local: 65.2% | Empate: 23.0% | Visita: 11.8%
+     🎯 Top Marcadores: 🔥 [2 - 0] (13.0%)   [1 - 0] (12.0%)   [1 - 1] (10.9%)
      ⚽ Resultado Simulado: 2 - 0
   ----------------------------------------------------
   📍 CANADA vs QATAR
-     📊 Tendencia -> Local: 53.3% | Empate: 26.8% | Visita: 20.0%
-     🎯 Top Marcadores: 🔥 [1 - 1] (12.8%)   [1 - 0] (10.1%)   [2 - 0] (9.9%)
+     📊 Tendencia -> Local: 56.5% | Empate: 25.9% | Visita: 17.6%
+     🎯 Top Marcadores: 🔥 [1 - 1] (12.4%)   [2 - 0] (10.7%)   [1 - 0] (10.6%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 3 ---
   📍 SWITZERLAND vs CANADA
-     📊 Tendencia -> Local: 44.0% | Empate: 28.5% | Visita: 27.5%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.6%)   [2 - 1] (9.2%)   [1 - 0] (8.7%)
+     📊 Tendencia -> Local: 45.5% | Empate: 28.3% | Visita: 26.3%
+     🎯 Top Marcadores: 🔥 [1 - 1] (13.5%)   [2 - 1] (9.3%)   [1 - 0] (8.9%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
   📍 BOSNIA-AND-HERZEGOVINA vs QATAR
-     📊 Tendencia -> Local: 36.7% | Empate: 29.0% | Visita: 34.4%
+     📊 Tendencia -> Local: 36.8% | Empate: 29.0% | Visita: 34.2%
      🎯 Top Marcadores: 🔥 [1 - 1] (13.8%)   [2 - 1] (8.4%)   [0 - 0] (8.3%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
@@ -107,37 +107,37 @@
 
  🗓️  --- JORNADA Matchday 1 ---
   📍 BRAZIL vs MOROCCO
-     📊 Tendencia -> Local: 45.1% | Empate: 28.3% | Visita: 26.6%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.5%)   [2 - 1] (9.3%)   [1 - 0] (8.9%)
+     📊 Tendencia -> Local: 50.6% | Empate: 27.4% | Visita: 22.0%
+     🎯 Top Marcadores: 🔥 [1 - 1] (13.1%)   [1 - 0] (9.7%)   [2 - 1] (9.6%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
   📍 HAITI vs SCOTLAND
-     📊 Tendencia -> Local: 22.0% | Empate: 27.4% | Visita: 50.6%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.1%)   [0 - 1] (9.7%)   [1 - 2] (9.6%)
+     📊 Tendencia -> Local: 20.0% | Empate: 26.8% | Visita: 53.3%
+     🎯 Top Marcadores: 🔥 [1 - 1] (12.8%)   [0 - 1] (10.1%)   [0 - 2] (9.9%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 2 ---
   📍 BRAZIL vs HAITI
-     📊 Tendencia -> Local: 83.4% | Empate: 13.9% | Visita: 2.7%
-     🎯 Top Marcadores: 🔥 [2 - 0] (19.3%)   [1 - 0] (15.5%)   [3 - 0] (15.4%)
+     📊 Tendencia -> Local: 86.3% | Empate: 11.6% | Visita: 2.1%
+     🎯 Top Marcadores: 🔥 [2 - 0] (18.5%)   [3 - 0] (16.2%)   [1 - 0] (13.5%)
      ⚽ Resultado Simulado: 2 - 0
   ----------------------------------------------------
   📍 SCOTLAND vs MOROCCO
-     📊 Tendencia -> Local: 14.5% | Empate: 24.6% | Visita: 60.9%
-     🎯 Top Marcadores: 🔥 [0 - 2] (11.8%)   [1 - 1] (11.7%)   [0 - 1] (11.3%)
+     📊 Tendencia -> Local: 12.4% | Empate: 23.4% | Visita: 64.1%
+     🎯 Top Marcadores: 🔥 [0 - 2] (12.7%)   [0 - 1] (11.8%)   [1 - 1] (11.2%)
      ⚽ Resultado Simulado: 0 - 2
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 3 ---
   📍 SCOTLAND vs BRAZIL
-     📊 Tendencia -> Local: 8.7% | Empate: 20.9% | Visita: 70.4%
-     🎯 Top Marcadores: 🔥 [0 - 2] (14.5%)   [0 - 1] (12.9%)   [0 - 3] (10.1%)
+     📊 Tendencia -> Local: 4.9% | Empate: 17.0% | Visita: 78.1%
+     🎯 Top Marcadores: 🔥 [0 - 2] (17.2%)   [0 - 1] (14.3%)   [0 - 3] (12.9%)
      ⚽ Resultado Simulado: 0 - 2
   ----------------------------------------------------
   📍 MOROCCO vs HAITI
-     📊 Tendencia -> Local: 75.3% | Empate: 18.5% | Visita: 6.2%
-     🎯 Top Marcadores: 🔥 [2 - 0] (16.2%)   [1 - 0] (13.8%)   [3 - 0] (11.8%)
+     📊 Tendencia -> Local: 80.3% | Empate: 15.8% | Visita: 3.9%
+     🎯 Top Marcadores: 🔥 [2 - 0] (18.0%)   [1 - 0] (14.8%)   [3 - 0] (13.9%)
      ⚽ Resultado Simulado: 2 - 0
   ----------------------------------------------------
 
@@ -158,37 +158,22 @@
 
  🗓️  --- JORNADA Matchday 1 ---
   📍 USA vs PARAGUAY
-     📊 Tendencia -> Local: 52.9% | Empate: 26.9% | Visita: 20.2%
-     🎯 Top Marcadores: 🔥 [1 - 1] (12.8%)   [1 - 0] (10.0%)   [2 - 0] (9.9%)
-     ⚽ Resultado Simulado: 1 - 1
-  ----------------------------------------------------
-  📍 AUSTRALIA vs TURKEY
-     📊 Tendencia -> Local: 40.3% | Empate: 28.8% | Visita: 30.9%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.8%)   [2 - 1] (8.8%)   [0 - 0] (8.3%)
+     📊 Tendencia -> Local: 52.3% | Empate: 27.0% | Visita: 20.7%
+     🎯 Top Marcadores: 🔥 [1 - 1] (12.9%)   [1 - 0] (9.9%)   [2 - 0] (9.7%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 2 ---
-  📍 TURKEY vs PARAGUAY
-     📊 Tendencia -> Local: 41.4% | Empate: 28.7% | Visita: 29.9%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.7%)   [2 - 1] (9.0%)   [1 - 0] (8.3%)
-     ⚽ Resultado Simulado: 1 - 1
-  ----------------------------------------------------
   📍 USA vs AUSTRALIA
-     📊 Tendencia -> Local: 41.9% | Empate: 28.7% | Visita: 29.4%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.7%)   [2 - 1] (9.0%)   [1 - 0] (8.4%)
+     📊 Tendencia -> Local: 39.4% | Empate: 28.9% | Visita: 31.8%
+     🎯 Top Marcadores: 🔥 [1 - 1] (13.8%)   [2 - 1] (8.7%)   [0 - 0] (8.3%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 3 ---
-  📍 TURKEY vs USA
-     📊 Tendencia -> Local: 25.1% | Empate: 28.1% | Visita: 46.8%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.4%)   [1 - 2] (9.4%)   [0 - 1] (9.1%)
-     ⚽ Resultado Simulado: 1 - 1
-  ----------------------------------------------------
   📍 PARAGUAY vs AUSTRALIA
-     📊 Tendencia -> Local: 25.5% | Empate: 28.1% | Visita: 46.3%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.4%)   [1 - 2] (9.4%)   [0 - 1] (9.1%)
+     📊 Tendencia -> Local: 23.9% | Empate: 27.8% | Visita: 48.3%
+     🎯 Top Marcadores: 🔥 [1 - 1] (13.3%)   [1 - 2] (9.5%)   [0 - 1] (9.3%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
@@ -196,10 +181,10 @@
 ------------------------------------------------------
  POS  EQUIPO              PTS   PJ   GF   GC   DG
 ------------------------------------------------------
-  1.  USA                  3    3    3    3   +0
-  2.  PARAGUAY             3    3    3    3   +0
-  3.  AUSTRALIA            3    3    3    3   +0
-  4.  TURKEY               3    3    3    3   +0
+  1.  USA                  2    2    2    2   +0
+  2.  PARAGUAY             2    2    2    2   +0
+  3.  AUSTRALIA            2    2    2    2   +0
+  4.  TURKEY               0    0    0    0   +0
 ======================================================
 
 
@@ -208,38 +193,23 @@
 ======================================================
 
  🗓️  --- JORNADA Matchday 1 ---
-  📍 GERMANY vs CURACAO
-     📊 Tendencia -> Local: 79.6% | Empate: 16.2% | Visita: 4.2%
-     🎯 Top Marcadores: 🔥 [2 - 0] (17.7%)   [1 - 0] (14.6%)   [3 - 0] (13.5%)
-     ⚽ Resultado Simulado: 2 - 0
-  ----------------------------------------------------
   📍 IVORY-COAST vs ECUADOR
-     📊 Tendencia -> Local: 24.9% | Empate: 28.0% | Visita: 47.1%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.4%)   [1 - 2] (9.4%)   [0 - 1] (9.2%)
+     📊 Tendencia -> Local: 26.8% | Empate: 28.4% | Visita: 44.9%
+     🎯 Top Marcadores: 🔥 [1 - 1] (13.5%)   [1 - 2] (9.3%)   [0 - 1] (8.8%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 2 ---
   📍 GERMANY vs IVORY-COAST
-     📊 Tendencia -> Local: 58.9% | Empate: 25.2% | Visita: 15.9%
-     🎯 Top Marcadores: 🔥 [1 - 1] (12.1%)   [2 - 0] (11.3%)   [1 - 0] (10.9%)
-     ⚽ Resultado Simulado: 1 - 1
-  ----------------------------------------------------
-  📍 ECUADOR vs CURACAO
-     📊 Tendencia -> Local: 69.1% | Empate: 21.4% | Visita: 9.4%
-     🎯 Top Marcadores: 🔥 [2 - 0] (14.2%)   [1 - 0] (12.6%)   [1 - 1] (10.1%)
+     📊 Tendencia -> Local: 61.9% | Empate: 24.2% | Visita: 13.9%
+     🎯 Top Marcadores: 🔥 [2 - 0] (12.1%)   [1 - 1] (11.6%)   [1 - 0] (11.4%)
      ⚽ Resultado Simulado: 2 - 0
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 3 ---
   📍 ECUADOR vs GERMANY
-     📊 Tendencia -> Local: 24.9% | Empate: 28.0% | Visita: 47.1%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.4%)   [1 - 2] (9.4%)   [0 - 1] (9.2%)
-     ⚽ Resultado Simulado: 1 - 1
-  ----------------------------------------------------
-  📍 CURACAO vs IVORY-COAST
-     📊 Tendencia -> Local: 16.7% | Empate: 25.6% | Visita: 57.7%
-     🎯 Top Marcadores: 🔥 [1 - 1] (12.2%)   [0 - 2] (11.0%)   [0 - 1] (10.8%)
+     📊 Tendencia -> Local: 20.7% | Empate: 27.0% | Visita: 52.3%
+     🎯 Top Marcadores: 🔥 [1 - 1] (12.9%)   [0 - 1] (9.9%)   [0 - 2] (9.7%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
@@ -247,10 +217,10 @@
 ------------------------------------------------------
  POS  EQUIPO              PTS   PJ   GF   GC   DG
 ------------------------------------------------------
-  1.  GERMANY              5    3    4    2   +2
-  2.  ECUADOR              5    3    4    2   +2
-  3.  IVORY-COAST          3    3    3    3   +0
-  4.  CURACAO              1    3    1    5   -4
+  1.  GERMANY              4    2    3    1   +2
+  2.  ECUADOR              2    2    2    2   +0
+  3.  IVORY-COAST          1    2    1    3   -2
+  4.  CURACAO              0    0    0    0   +0
 ======================================================
 
 
@@ -260,37 +230,22 @@
 
  🗓️  --- JORNADA Matchday 1 ---
   📍 NETHERLANDS vs JAPAN
-     📊 Tendencia -> Local: 43.7% | Empate: 28.5% | Visita: 27.8%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.6%)   [2 - 1] (9.2%)   [1 - 0] (8.7%)
-     ⚽ Resultado Simulado: 1 - 1
-  ----------------------------------------------------
-  📍 SWEDEN vs TUNISIA
-     📊 Tendencia -> Local: 44.0% | Empate: 28.5% | Visita: 27.5%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.6%)   [2 - 1] (9.2%)   [1 - 0] (8.7%)
+     📊 Tendencia -> Local: 45.1% | Empate: 28.3% | Visita: 26.6%
+     🎯 Top Marcadores: 🔥 [1 - 1] (13.5%)   [2 - 1] (9.3%)   [1 - 0] (8.9%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 2 ---
-  📍 NETHERLANDS vs SWEDEN
-     📊 Tendencia -> Local: 52.6% | Empate: 26.9% | Visita: 20.5%
-     🎯 Top Marcadores: 🔥 [1 - 1] (12.9%)   [1 - 0] (10.0%)   [2 - 0] (9.8%)
-     ⚽ Resultado Simulado: 1 - 1
-  ----------------------------------------------------
   📍 TUNISIA vs JAPAN
-     📊 Tendencia -> Local: 20.2% | Empate: 26.9% | Visita: 52.9%
-     🎯 Top Marcadores: 🔥 [1 - 1] (12.8%)   [0 - 1] (10.0%)   [0 - 2] (9.9%)
+     📊 Tendencia -> Local: 15.7% | Empate: 25.1% | Visita: 59.1%
+     🎯 Top Marcadores: 🔥 [1 - 1] (12.0%)   [0 - 2] (11.4%)   [0 - 1] (11.0%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 3 ---
-  📍 JAPAN vs SWEDEN
-     📊 Tendencia -> Local: 44.1% | Empate: 28.4% | Visita: 27.4%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.6%)   [2 - 1] (9.2%)   [1 - 0] (8.7%)
-     ⚽ Resultado Simulado: 1 - 1
-  ----------------------------------------------------
   📍 TUNISIA vs NETHERLANDS
-     📊 Tendencia -> Local: 14.3% | Empate: 24.4% | Visita: 61.3%
-     🎯 Top Marcadores: 🔥 [0 - 2] (11.9%)   [1 - 1] (11.7%)   [0 - 1] (11.3%)
+     📊 Tendencia -> Local: 9.7% | Empate: 21.6% | Visita: 68.7%
+     🎯 Top Marcadores: 🔥 [0 - 2] (14.0%)   [0 - 1] (12.6%)   [1 - 1] (10.2%)
      ⚽ Resultado Simulado: 0 - 2
   ----------------------------------------------------
 
@@ -298,10 +253,10 @@
 ------------------------------------------------------
  POS  EQUIPO              PTS   PJ   GF   GC   DG
 ------------------------------------------------------
-  1.  NETHERLANDS          5    3    4    2   +2
-  2.  JAPAN                3    3    3    3   +0
-  3.  SWEDEN               3    3    3    3   +0
-  4.  TUNISIA              2    3    2    4   -2
+  1.  NETHERLANDS          4    2    3    1   +2
+  2.  JAPAN                2    2    2    2   +0
+  3.  TUNISIA              1    2    1    3   -2
+  4.  SWEDEN               0    0    0    0   +0
 ======================================================
 
 
@@ -311,37 +266,37 @@
 
  🗓️  --- JORNADA Matchday 1 ---
   📍 IRAN vs NEW-ZEALAND
-     📊 Tendencia -> Local: 54.3% | Empate: 26.5% | Visita: 19.2%
-     🎯 Top Marcadores: 🔥 [1 - 1] (12.7%)   [1 - 0] (10.2%)   [2 - 0] (10.2%)
-     ⚽ Resultado Simulado: 1 - 1
-  ----------------------------------------------------
-  📍 BELGIUM vs EGYPT
      📊 Tendencia -> Local: 57.6% | Empate: 25.6% | Visita: 16.8%
      🎯 Top Marcadores: 🔥 [1 - 1] (12.3%)   [2 - 0] (11.0%)   [1 - 0] (10.7%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
+  📍 BELGIUM vs EGYPT
+     📊 Tendencia -> Local: 61.4% | Empate: 24.4% | Visita: 14.2%
+     🎯 Top Marcadores: 🔥 [2 - 0] (12.0%)   [1 - 1] (11.6%)   [1 - 0] (11.3%)
+     ⚽ Resultado Simulado: 2 - 0
+  ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 2 ---
   📍 BELGIUM vs IRAN
-     📊 Tendencia -> Local: 51.2% | Empate: 27.2% | Visita: 21.6%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.0%)   [1 - 0] (9.8%)   [2 - 1] (9.7%)
+     📊 Tendencia -> Local: 54.0% | Empate: 26.6% | Visita: 19.4%
+     🎯 Top Marcadores: 🔥 [1 - 1] (12.7%)   [1 - 0] (10.2%)   [2 - 0] (10.1%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
   📍 NEW-ZEALAND vs EGYPT
-     📊 Tendencia -> Local: 24.2% | Empate: 27.9% | Visita: 47.9%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.3%)   [1 - 2] (9.5%)   [0 - 1] (9.3%)
+     📊 Tendencia -> Local: 22.4% | Empate: 27.5% | Visita: 50.1%
+     🎯 Top Marcadores: 🔥 [1 - 1] (13.1%)   [1 - 2] (9.6%)   [0 - 1] (9.6%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 3 ---
   📍 NEW-ZEALAND vs BELGIUM
-     📊 Tendencia -> Local: 9.1% | Empate: 21.1% | Visita: 69.8%
-     🎯 Top Marcadores: 🔥 [0 - 2] (14.4%)   [0 - 1] (12.8%)   [1 - 1] (9.9%)
+     📊 Tendencia -> Local: 6.2% | Empate: 18.5% | Visita: 75.3%
+     🎯 Top Marcadores: 🔥 [0 - 2] (16.2%)   [0 - 1] (13.8%)   [0 - 3] (11.8%)
      ⚽ Resultado Simulado: 0 - 2
   ----------------------------------------------------
   📍 EGYPT vs IRAN
-     📊 Tendencia -> Local: 29.7% | Empate: 28.7% | Visita: 41.6%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.7%)   [1 - 2] (9.0%)   [0 - 1] (8.4%)
+     📊 Tendencia -> Local: 28.7% | Empate: 28.6% | Visita: 42.7%
+     🎯 Top Marcadores: 🔥 [1 - 1] (13.7%)   [1 - 2] (9.1%)   [0 - 1] (8.5%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
@@ -349,10 +304,10 @@
 ------------------------------------------------------
  POS  EQUIPO              PTS   PJ   GF   GC   DG
 ------------------------------------------------------
-  1.  BELGIUM              5    3    4    2   +2
+  1.  BELGIUM              7    3    5    1   +4
   2.  IRAN                 3    3    3    3   +0
-  3.  EGYPT                3    3    3    3   +0
-  4.  NEW-ZEALAND          2    3    2    4   -2
+  3.  NEW-ZEALAND          2    3    2    4   -2
+  4.  EGYPT                2    3    2    4   -2
 ======================================================
 
 
@@ -361,49 +316,34 @@
 ======================================================
 
  🗓️  --- JORNADA Matchday 1 ---
-  📍 SPAIN vs CAPE-VERDE
-     📊 Tendencia -> Local: 82.8% | Empate: 14.3% | Visita: 2.9%
-     🎯 Top Marcadores: 🔥 [2 - 0] (19.0%)   [1 - 0] (15.3%)   [3 - 0] (15.1%)
-     ⚽ Resultado Simulado: 2 - 0
-  ----------------------------------------------------
   📍 SAUDI-ARABIA vs URUGUAY
-     📊 Tendencia -> Local: 17.6% | Empate: 25.9% | Visita: 56.5%
-     🎯 Top Marcadores: 🔥 [1 - 1] (12.4%)   [0 - 2] (10.7%)   [0 - 1] (10.6%)
+     📊 Tendencia -> Local: 15.0% | Empate: 24.8% | Visita: 60.2%
+     🎯 Top Marcadores: 🔥 [1 - 1] (11.8%)   [0 - 2] (11.7%)   [0 - 1] (11.2%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 2 ---
   📍 SPAIN vs SAUDI-ARABIA
-     📊 Tendencia -> Local: 77.0% | Empate: 17.6% | Visita: 5.4%
-     🎯 Top Marcadores: 🔥 [2 - 0] (16.8%)   [1 - 0] (14.1%)   [3 - 0] (12.5%)
-     ⚽ Resultado Simulado: 2 - 0
-  ----------------------------------------------------
-  📍 URUGUAY vs CAPE-VERDE
-     📊 Tendencia -> Local: 63.4% | Empate: 23.7% | Visita: 12.9%
-     🎯 Top Marcadores: 🔥 [2 - 0] (12.5%)   [1 - 0] (11.7%)   [1 - 1] (11.3%)
+     📊 Tendencia -> Local: 84.2% | Empate: 13.3% | Visita: 2.5%
+     🎯 Top Marcadores: 🔥 [2 - 0] (19.2%)   [3 - 0] (15.7%)   [1 - 0] (15.1%)
      ⚽ Resultado Simulado: 2 - 0
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 3 ---
   📍 URUGUAY vs SPAIN
-     📊 Tendencia -> Local: 17.2% | Empate: 25.8% | Visita: 57.1%
-     🎯 Top Marcadores: 🔥 [1 - 1] (12.3%)   [0 - 2] (10.9%)   [0 - 1] (10.7%)
-     ⚽ Resultado Simulado: 1 - 1
-  ----------------------------------------------------
-  📍 CAPE-VERDE vs SAUDI-ARABIA
-     📊 Tendencia -> Local: 29.0% | Empate: 28.7% | Visita: 42.3%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.7%)   [1 - 2] (9.1%)   [0 - 1] (8.5%)
-     ⚽ Resultado Simulado: 1 - 1
+     📊 Tendencia -> Local: 12.6% | Empate: 23.6% | Visita: 63.8%
+     🎯 Top Marcadores: 🔥 [0 - 2] (12.6%)   [0 - 1] (11.7%)   [1 - 1] (11.2%)
+     ⚽ Resultado Simulado: 0 - 2
   ----------------------------------------------------
 
  📊 CLASIFICACIÓN FINAL: GROUP H
 ------------------------------------------------------
  POS  EQUIPO              PTS   PJ   GF   GC   DG
 ------------------------------------------------------
-  1.  SPAIN                7    3    5    1   +4
-  2.  URUGUAY              5    3    4    2   +2
-  3.  SAUDI-ARABIA         2    3    2    4   -2
-  4.  CAPE-VERDE           1    3    1    5   -4
+  1.  SPAIN                6    2    4    0   +4
+  2.  SAUDI-ARABIA         1    2    1    3   -2
+  3.  URUGUAY              1    2    1    3   -2
+  4.  CAPE-VERDE           0    0    0    0   +0
 ======================================================
 
 
@@ -413,48 +353,19 @@
 
  🗓️  --- JORNADA Matchday 1 ---
   📍 FRANCE vs SENEGAL
-     📊 Tendencia -> Local: 54.9% | Empate: 26.4% | Visita: 18.8%
-     🎯 Top Marcadores: 🔥 [1 - 1] (12.6%)   [1 - 0] (10.3%)   [2 - 0] (10.3%)
+     📊 Tendencia -> Local: 60.1% | Empate: 24.8% | Visita: 15.1%
+     🎯 Top Marcadores: 🔥 [1 - 1] (11.9%)   [2 - 0] (11.6%)   [1 - 0] (11.1%)
      ⚽ Resultado Simulado: 1 - 1
-  ----------------------------------------------------
-  📍 IRAQ vs NORWAY
-     📊 Tendencia -> Local: 9.4% | Empate: 21.4% | Visita: 69.1%
-     🎯 Top Marcadores: 🔥 [0 - 2] (14.2%)   [0 - 1] (12.6%)   [1 - 1] (10.1%)
-     ⚽ Resultado Simulado: 0 - 2
-  ----------------------------------------------------
-
- 🗓️  --- JORNADA Matchday 2 ---
-  📍 FRANCE vs IRAQ
-     📊 Tendencia -> Local: 82.7% | Empate: 14.4% | Visita: 3.0%
-     🎯 Top Marcadores: 🔥 [2 - 0] (19.0%)   [1 - 0] (15.3%)   [3 - 0] (15.0%)
-     ⚽ Resultado Simulado: 2 - 0
-  ----------------------------------------------------
-  📍 NORWAY vs SENEGAL
-     📊 Tendencia -> Local: 39.2% | Empate: 28.9% | Visita: 31.9%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.8%)   [2 - 1] (8.7%)   [0 - 0] (8.3%)
-     ⚽ Resultado Simulado: 1 - 1
-  ----------------------------------------------------
-
- 🗓️  --- JORNADA Matchday 3 ---
-  📍 NORWAY vs FRANCE
-     📊 Tendencia -> Local: 21.7% | Empate: 27.3% | Visita: 51.0%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.1%)   [0 - 1] (9.7%)   [1 - 2] (9.7%)
-     ⚽ Resultado Simulado: 1 - 1
-  ----------------------------------------------------
-  📍 SENEGAL vs IRAQ
-     📊 Tendencia -> Local: 65.4% | Empate: 22.9% | Visita: 11.6%
-     🎯 Top Marcadores: 🔥 [2 - 0] (13.1%)   [1 - 0] (12.0%)   [1 - 1] (10.9%)
-     ⚽ Resultado Simulado: 2 - 0
   ----------------------------------------------------
 
  📊 CLASIFICACIÓN FINAL: GROUP I
 ------------------------------------------------------
  POS  EQUIPO              PTS   PJ   GF   GC   DG
 ------------------------------------------------------
-  1.  FRANCE               5    3    4    2   +2
-  2.  SENEGAL              5    3    4    2   +2
-  3.  NORWAY               5    3    4    2   +2
-  4.  IRAQ                 0    3    0    6   -6
+  1.  FRANCE               1    1    1    1   +0
+  2.  SENEGAL              1    1    1    1   +0
+  3.  IRAQ                 0    0    0    0   +0
+  4.  NORWAY               0    0    0    0   +0
 ======================================================
 
 
@@ -464,48 +375,33 @@
 
  🗓️  --- JORNADA Matchday 1 ---
   📍 ARGENTINA vs ALGERIA
-     📊 Tendencia -> Local: 68.1% | Empate: 21.9% | Visita: 10.0%
-     🎯 Top Marcadores: 🔥 [2 - 0] (13.9%)   [1 - 0] (12.5%)   [1 - 1] (10.3%)
+     📊 Tendencia -> Local: 79.8% | Empate: 16.1% | Visita: 4.2%
+     🎯 Top Marcadores: 🔥 [2 - 0] (17.8%)   [1 - 0] (14.7%)   [3 - 0] (13.6%)
      ⚽ Resultado Simulado: 2 - 0
-  ----------------------------------------------------
-  📍 AUSTRIA vs JORDAN
-     📊 Tendencia -> Local: 56.0% | Empate: 26.1% | Visita: 18.0%
-     🎯 Top Marcadores: 🔥 [1 - 1] (12.5%)   [2 - 0] (10.6%)   [1 - 0] (10.5%)
-     ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 2 ---
-  📍 ARGENTINA vs AUSTRIA
-     📊 Tendencia -> Local: 66.5% | Empate: 22.5% | Visita: 11.0%
-     🎯 Top Marcadores: 🔥 [2 - 0] (13.4%)   [1 - 0] (12.2%)   [1 - 1] (10.7%)
-     ⚽ Resultado Simulado: 2 - 0
-  ----------------------------------------------------
   📍 JORDAN vs ALGERIA
-     📊 Tendencia -> Local: 19.2% | Empate: 26.5% | Visita: 54.3%
-     🎯 Top Marcadores: 🔥 [1 - 1] (12.7%)   [0 - 1] (10.2%)   [0 - 2] (10.2%)
+     📊 Tendencia -> Local: 16.7% | Empate: 25.6% | Visita: 57.7%
+     🎯 Top Marcadores: 🔥 [1 - 1] (12.2%)   [0 - 2] (11.0%)   [0 - 1] (10.8%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 3 ---
   📍 JORDAN vs ARGENTINA
-     📊 Tendencia -> Local: 2.6% | Empate: 13.6% | Visita: 83.9%
-     🎯 Top Marcadores: 🔥 [0 - 2] (19.3%)   [0 - 3] (15.6%)   [0 - 1] (15.3%)
+     📊 Tendencia -> Local: 1.9% | Empate: 10.5% | Visita: 87.6%
+     🎯 Top Marcadores: 🔥 [0 - 2] (17.9%)   [0 - 3] (16.5%)   [0 - 1] (12.5%)
      ⚽ Resultado Simulado: 0 - 2
-  ----------------------------------------------------
-  📍 ALGERIA vs AUSTRIA
-     📊 Tendencia -> Local: 33.9% | Empate: 29.0% | Visita: 37.1%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.8%)   [1 - 2] (8.5%)   [0 - 0] (8.3%)
-     ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
  📊 CLASIFICACIÓN FINAL: GROUP J
 ------------------------------------------------------
  POS  EQUIPO              PTS   PJ   GF   GC   DG
 ------------------------------------------------------
-  1.  ARGENTINA            9    3    6    0   +6
-  2.  ALGERIA              2    3    2    4   -2
-  3.  AUSTRIA              2    3    2    4   -2
-  4.  JORDAN               2    3    2    4   -2
+  1.  ARGENTINA            6    2    4    0   +4
+  2.  ALGERIA              1    2    1    3   -2
+  3.  JORDAN               1    2    1    3   -2
+  4.  AUSTRIA              0    0    0    0   +0
 ======================================================
 
 
@@ -513,39 +409,10 @@
                  GROUP K 
 ======================================================
 
- 🗓️  --- JORNADA Matchday 1 ---
-  📍 PORTUGAL vs DR-CONGO
-     📊 Tendencia -> Local: 70.7% | Empate: 20.7% | Visita: 8.6%
-     🎯 Top Marcadores: 🔥 [2 - 0] (14.6%)   [1 - 0] (12.9%)   [3 - 0] (10.2%)
-     ⚽ Resultado Simulado: 2 - 0
-  ----------------------------------------------------
-  📍 UZBEKISTAN vs COLOMBIA
-     📊 Tendencia -> Local: 11.9% | Empate: 23.1% | Visita: 65.0%
-     🎯 Top Marcadores: 🔥 [0 - 2] (12.9%)   [0 - 1] (11.9%)   [1 - 1] (11.0%)
-     ⚽ Resultado Simulado: 0 - 2
-  ----------------------------------------------------
-
- 🗓️  --- JORNADA Matchday 2 ---
-  📍 PORTUGAL vs UZBEKISTAN
-     📊 Tendencia -> Local: 72.6% | Empate: 19.8% | Visita: 7.5%
-     🎯 Top Marcadores: 🔥 [2 - 0] (15.3%)   [1 - 0] (13.3%)   [3 - 0] (10.8%)
-     ⚽ Resultado Simulado: 2 - 0
-  ----------------------------------------------------
-  📍 COLOMBIA vs DR-CONGO
-     📊 Tendencia -> Local: 63.0% | Empate: 23.9% | Visita: 13.2%
-     🎯 Top Marcadores: 🔥 [2 - 0] (12.4%)   [1 - 0] (11.6%)   [1 - 1] (11.4%)
-     ⚽ Resultado Simulado: 2 - 0
-  ----------------------------------------------------
-
  🗓️  --- JORNADA Matchday 3 ---
   📍 COLOMBIA vs PORTUGAL
-     📊 Tendencia -> Local: 28.0% | Empate: 28.5% | Visita: 43.4%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.6%)   [1 - 2] (9.2%)   [0 - 1] (8.6%)
-     ⚽ Resultado Simulado: 1 - 1
-  ----------------------------------------------------
-  📍 DR-CONGO vs UZBEKISTAN
-     📊 Tendencia -> Local: 37.5% | Empate: 29.0% | Visita: 33.6%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.8%)   [2 - 1] (8.5%)   [0 - 0] (8.3%)
+     📊 Tendencia -> Local: 30.0% | Empate: 28.8% | Visita: 41.3%
+     🎯 Top Marcadores: 🔥 [1 - 1] (13.7%)   [1 - 2] (8.9%)   [0 - 1] (8.3%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
@@ -553,10 +420,10 @@
 ------------------------------------------------------
  POS  EQUIPO              PTS   PJ   GF   GC   DG
 ------------------------------------------------------
-  1.  PORTUGAL             7    3    5    1   +4
-  2.  COLOMBIA             7    3    5    1   +4
-  3.  DR-CONGO             1    3    1    5   -4
-  4.  UZBEKISTAN           1    3    1    5   -4
+  1.  PORTUGAL             1    1    1    1   +0
+  2.  COLOMBIA             1    1    1    1   +0
+  3.  DR-CONGO             0    0    0    0   +0
+  4.  UZBEKISTAN           0    0    0    0   +0
 ======================================================
 
 
@@ -566,38 +433,38 @@
 
  🗓️  --- JORNADA Matchday 1 ---
   📍 ENGLAND vs CROATIA
-     📊 Tendencia -> Local: 52.4% | Empate: 27.0% | Visita: 20.6%
-     🎯 Top Marcadores: 🔥 [1 - 1] (12.9%)   [1 - 0] (10.0%)   [2 - 0] (9.7%)
+     📊 Tendencia -> Local: 50.0% | Empate: 27.5% | Visita: 22.5%
+     🎯 Top Marcadores: 🔥 [1 - 1] (13.1%)   [2 - 1] (9.6%)   [1 - 0] (9.6%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
   📍 GHANA vs PANAMA
-     📊 Tendencia -> Local: 40.7% | Empate: 28.8% | Visita: 30.5%
-     🎯 Top Marcadores: 🔥 [1 - 1] (13.7%)   [2 - 1] (8.9%)   [0 - 0] (8.3%)
+     📊 Tendencia -> Local: 41.5% | Empate: 28.7% | Visita: 29.8%
+     🎯 Top Marcadores: 🔥 [1 - 1] (13.7%)   [2 - 1] (9.0%)   [1 - 0] (8.4%)
      ⚽ Resultado Simulado: 1 - 1
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 2 ---
   📍 ENGLAND vs GHANA
-     📊 Tendencia -> Local: 75.0% | Empate: 18.7% | Visita: 6.3%
-     🎯 Top Marcadores: 🔥 [2 - 0] (16.0%)   [1 - 0] (13.7%)   [3 - 0] (11.7%)
+     📊 Tendencia -> Local: 77.6% | Empate: 17.3% | Visita: 5.1%
+     🎯 Top Marcadores: 🔥 [2 - 0] (17.0%)   [1 - 0] (14.2%)   [3 - 0] (12.7%)
      ⚽ Resultado Simulado: 2 - 0
   ----------------------------------------------------
   📍 PANAMA vs CROATIA
-     📊 Tendencia -> Local: 12.5% | Empate: 23.5% | Visita: 64.0%
-     🎯 Top Marcadores: 🔥 [0 - 2] (12.7%)   [0 - 1] (11.8%)   [1 - 1] (11.2%)
+     📊 Tendencia -> Local: 8.9% | Empate: 21.0% | Visita: 70.0%
+     🎯 Top Marcadores: 🔥 [0 - 2] (14.4%)   [0 - 1] (12.8%)   [0 - 3] (10.0%)
      ⚽ Resultado Simulado: 0 - 2
   ----------------------------------------------------
 
  🗓️  --- JORNADA Matchday 3 ---
   📍 PANAMA vs ENGLAND
-     📊 Tendencia -> Local: 4.2% | Empate: 16.2% | Visita: 79.6%
-     🎯 Top Marcadores: 🔥 [0 - 2] (17.7%)   [0 - 1] (14.6%)   [0 - 3] (13.5%)
+     📊 Tendencia -> Local: 3.0% | Empate: 14.4% | Visita: 82.7%
+     🎯 Top Marcadores: 🔥 [0 - 2] (19.0%)   [0 - 1] (15.3%)   [0 - 3] (15.0%)
      ⚽ Resultado Simulado: 0 - 2
   ----------------------------------------------------
   📍 CROATIA vs GHANA
-     📊 Tendencia -> Local: 58.8% | Empate: 25.3% | Visita: 16.0%
-     🎯 Top Marcadores: 🔥 [1 - 1] (12.1%)   [2 - 0] (11.3%)   [1 - 0] (10.9%)
-     ⚽ Resultado Simulado: 1 - 1
+     📊 Tendencia -> Local: 64.1% | Empate: 23.4% | Visita: 12.4%
+     🎯 Top Marcadores: 🔥 [2 - 0] (12.7%)   [1 - 0] (11.8%)   [1 - 1] (11.2%)
+     ⚽ Resultado Simulado: 2 - 0
   ----------------------------------------------------
 
  📊 CLASIFICACIÓN FINAL: GROUP L
@@ -605,8 +472,8 @@
  POS  EQUIPO              PTS   PJ   GF   GC   DG
 ------------------------------------------------------
   1.  ENGLAND              7    3    5    1   +4
-  2.  CROATIA              5    3    4    2   +2
-  3.  GHANA                2    3    2    4   -2
+  2.  CROATIA              7    3    5    1   +4
+  3.  GHANA                1    3    1    5   -4
   4.  PANAMA               1    3    1    5   -4
 ======================================================
 
