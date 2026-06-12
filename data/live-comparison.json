@@ -1,0 +1,186 @@
+[
+  {
+    "slug": "canada-vs-bosnia-and-herzegovina-2026-06-12",
+    "teamA": "Canadá",
+    "teamB": "Bosnia y Herzegovina",
+    "slugA": "canada",
+    "slugB": "bosnia-and-herzegovina",
+    "date": "2026-06-12",
+    "live": {
+      "winA": 0.5881211242762732,
+      "draw": 0.24807400311640632,
+      "winB": 0.16380487260732055
+    },
+    "local": {
+      "winA": 0.5881211242762732,
+      "draw": 0.24807400311640632,
+      "winB": 0.16380487260732055
+    },
+    "diff": {
+      "winA": 0,
+      "draw": 0,
+      "winB": 0
+    }
+  },
+  {
+    "slug": "usa-vs-paraguay-2026-06-12",
+    "teamA": "Estados Unidos",
+    "teamB": "Paraguay",
+    "slugA": "usa",
+    "slugB": "paraguay",
+    "date": "2026-06-12",
+    "live": {
+      "winA": 0.5964205323575072,
+      "draw": 0.24554167305457997,
+      "winB": 0.1580377945879127
+    },
+    "local": {
+      "winA": 0.5964205323575072,
+      "draw": 0.24554167305458,
+      "winB": 0.1580377945879127
+    },
+    "diff": {
+      "winA": 0,
+      "draw": -2.7755575615628914e-17,
+      "winB": 0
+    }
+  },
+  {
+    "slug": "qatar-vs-switzerland-2026-06-13",
+    "teamA": "Catar",
+    "teamB": "Suiza",
+    "slugA": "qatar",
+    "slugB": "switzerland",
+    "date": "2026-06-13",
+    "live": {
+      "winA": 0.13791895943702318,
+      "draw": 0.2419932522917096,
+      "winB": 0.6200877882712673
+    },
+    "local": {
+      "winA": 0.13791895943702318,
+      "draw": 0.2419932522917096,
+      "winB": 0.6200877882712673
+    },
+    "diff": {
+      "winA": 0,
+      "draw": 0,
+      "winB": 0
+    }
+  },
+  {
+    "slug": "brazil-vs-morocco-2026-06-13",
+    "teamA": "Brasil",
+    "teamB": "Marruecos",
+    "slugA": "brazil",
+    "slugB": "morocco",
+    "date": "2026-06-13",
+    "live": {
+      "winA": 0.4510746793733729,
+      "draw": 0.28321277369377285,
+      "winB": 0.2657125469328542
+    },
+    "local": {
+      "winA": 0.45107467937337287,
+      "draw": 0.28321277369377285,
+      "winB": 0.2657125469328542
+    },
+    "diff": {
+      "winA": 5.551115123125783e-17,
+      "draw": 0,
+      "winB": 0
+    }
+  },
+  {
+    "slug": "haiti-vs-scotland-2026-06-13",
+    "teamA": "Haití",
+    "teamB": "Escocia",
+    "slugA": "haiti",
+    "slugB": "scotland",
+    "date": "2026-06-13",
+    "live": {
+      "winA": 0.220366864210299,
+      "draw": 0.2736994621579176,
+      "winB": 0.5059336736317834
+    },
+    "local": {
+      "winA": 0.22036686421029897,
+      "draw": 0.2736994621579176,
+      "winB": 0.5059336736317834
+    },
+    "diff": {
+      "winA": 2.7755575615628914e-17,
+      "draw": 0,
+      "winB": 0
+    }
+  },
+  {
+    "slug": "australia-vs-turkey-2026-06-13",
+    "teamA": "Australia",
+    "teamB": "Turquía",
+    "slugA": "australia",
+    "slugB": "turkey",
+    "date": "2026-06-13",
+    "live": {
+      "winA": 0.40301349305558937,
+      "draw": 0.28827580380892487,
+      "winB": 0.3087107031354857
+    },
+    "local": {
+      "winA": 0.40301349305558937,
+      "draw": 0.28827580380892487,
+      "winB": 0.3087107031354857
+    },
+    "diff": {
+      "winA": 0,
+      "draw": 0,
+      "winB": 0
+    }
+  },
+  {
+    "slug": "germany-vs-curacao-2026-06-14",
+    "teamA": "Alemania",
+    "teamB": "Curazao",
+    "slugA": "germany",
+    "slugB": "curacao",
+    "date": "2026-06-14",
+    "live": {
+      "winA": 0.7955256163776555,
+      "draw": 0.1621194835993539,
+      "winB": 0.042354900022990576
+    },
+    "local": {
+      "winA": 0.7955256163776555,
+      "draw": 0.1621194835993539,
+      "winB": 0.042354900022990576
+    },
+    "diff": {
+      "winA": 0,
+      "draw": 0,
+      "winB": 0
+    }
+  },
+  {
+    "slug": "netherlands-vs-japan-2026-06-14",
+    "teamA": "Países Bajos",
+    "teamB": "Japón",
+    "slugA": "netherlands",
+    "slugB": "japan",
+    "date": "2026-06-14",
+    "live": {
+      "winA": 0.4365614829058422,
+      "draw": 0.28507390750746836,
+      "winB": 0.2783646095866895
+    },
+    "local": {
+      "winA": 0.4365614829058422,
+      "draw": 0.28507390750746836,
+      "winB": 0.2783646095866895
+    },
+    "diff": {
+      "winA": 0,
+      "draw": 0,
+      "winB": 0
+    }
+  }
+]

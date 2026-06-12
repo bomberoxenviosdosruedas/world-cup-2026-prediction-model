@@ -1,0 +1,33 @@
+{
+  "optimizedAt": "2026-06-12T05:30:34.123Z",
+  "parameters": {
+    "homeAdvantage": 95,
+    "dcRho": -0.06,
+    "expectedGoalsBase": 1.275,
+    "expectedGoalsDenom": 395,
+    "expectedGoalsMin": 0.3,
+    "expectedGoalsMax": 3.5,
+    "kWorldCup": 50,
+    "kQual": 50,
+    "kCup": 52.5,
+    "kNations": 32,
+    "kFriendly": 18,
+    "kDefault": 28
+  },
+  "metrics": {
+    "baseline": {
+      "accuracy": 0.6186107470511141,
+      "favouriteAccuracy": 0.6902286902286903,
+      "brier": 0.5203597038155827,
+      "logloss": 0.8856402077795837,
+      "rps": 0.17461010195422755
+    },
+    "optimized": {
+      "accuracy": 0.6199213630406291,
+      "favouriteAccuracy": 0.6763565891472868,
+      "brier": 0.5176265157718636,
+      "logloss": 0.8805704908701247,
+      "rps": 0.17340703211585304
+    }
+  }
+}
